@@ -13,7 +13,7 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ```
-#Program to find the inverse of a matrix.
+#Program to find the inverse of a matrix..
 #Developed by: PERARASU K 25004665
 #RegisterNumber: 212225100034
 
